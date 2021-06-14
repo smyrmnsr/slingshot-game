@@ -1,54 +1,40 @@
-Slinghsot Game
-PROJECT IS NOT COMPLETE, while playable it is still in testing. Enjoy, but stay tuned.
+<h1 align="center">Welcome to SlingShot Game 👋</h1>
 
-Description
-Using Matter.js library to build a physics game. Buttons generate randomly sized circles, 
-polygons, triangles, or random objects. Point of game is to balance as many objects on 
-the platform without the objects falling. Each object creates points, dropped objects 
-are removed from game and points are deducted from main score.
+> This is a web-based game written with JavaScript. This game utilised a physics engine called Matter.js. I recommend reading the documentation if you want to understand the jargons used.There is a sling on the left. You can click on it, and release it. A ball shall be shot after you &#34;released&#34;. The object of the player is to knock down all the boxes from a platform in maximum 10(ten) tries.
 
-Setup/Installation Requirements
+## Setup/Installation Requirements
 
-Clone repository
+```sh
 
 Open terminal
 
-Run npm install
+Clone repository
 
-npm run start
+Open the project with your IDE
 
-Open a browser: http://localhost:3000/
+Open index.html file
 
 Enjoy!
 
-Technologies Used
-React.js, Javascript, CSS3, HTML, jQuery, and Create React App
+```
 
-Matter.js: A 2D physics engine for the web
+## Author
 
-React-Modal: Accessible modal dialog component for React.JS
+👤 **Samir Mansour**
 
-Press Start 2P - Google Font: Press Start 2P is a bitmap font based on the font design from 1980s Namco arcade games.
+- Github: [@smyrmnsr](https://github.com/smyrmnsr)
 
-VT323 - Google Font: This font was created from the glyphs of the DEC VT320 text terminal
+## 🤝 Technologies Used
 
+Javascript, CSS3, HTML, jQuery
 
-Future Development
- Adapt styling to allow for mobile device use/view of content
- Further CSS styling
- Level selector
- More difficult levels
- Objects have more refined physics
- 
-Version
-Beta v1.0
+Matter.js: A 2D rigid body physics engine written in JavaScript. This library can help you easily simulate 2D physics in the browser. It offers a lot of features like the ability to create rigid bodies and assign physical properties like mass, area or density to them.
 
-License(s)
-Working Code is Licensed under the MIT license.
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+## 📝 License
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Copyright © 2021 [Samir Mansour](https://github.com/smyrmnsr).<br />
+This project is [Working Code is Licensed under the MIT license.](Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &#34;Software&#34;),to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:) licensed.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+---
 
-Copyright 2019 Daniel Burbach
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
