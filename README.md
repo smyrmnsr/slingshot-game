@@ -3,7 +3,7 @@
 > This is a web-based game written with JavaScript. This game utilised a physics engine called Matter.js. I recommend reading the documentation if you want to understand the jargons used.There is a sling on the left. You can click on it, and release it. A ball shall be shot after you &#34;released&#34;. The object of the player is to knock down all the boxes from a platform in maximum 10(ten) tries.
 
 
-<h1 align="center">![slingshot](https://github.com/smyrmnsr/slingshot-game/blob/main/slingshot.gif)</h1>
+<div align="center">![slingshot](https://github.com/smyrmnsr/slingshot-game/blob/main/slingshot.gif)</div>
 
 ## Setup/Installation Requirements
 
