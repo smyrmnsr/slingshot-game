@@ -18,7 +18,7 @@ Enjoy!
 
 ```
 
-## 🤝 Technologies Used
+## Technologies Used
 
 
 - Javascript (https://www.javascript.com/),<br />
