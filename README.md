@@ -27,7 +27,7 @@ Enjoy!
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
 
-![JQuerry](https://img.shields.io/badge/-Jquerry-black?style=flat&logo=tjquerry)
+![JQuery](https://img.shields.io/badge/-Jquerry-black?style=flat&logo=tjquery)
 
 
 - Matter.js (https://brm.io/matter-js/): <br />
