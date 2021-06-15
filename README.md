@@ -22,7 +22,6 @@ Enjoy!
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript),
-
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3),
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white),
