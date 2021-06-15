@@ -29,7 +29,7 @@ Enjoy!
 
 - jQuery (https://jquery.com/),<br />
 
-- Matter.js(https://brm.io/matter-js/): 
+- Matter.js (https://brm.io/matter-js/): <br />
 A 2D rigid body physics engine written in JavaScript. This library can help you easily simulate 2D physics in the browser. It offers a lot of features like the ability to create rigid bodies and assign physical properties like mass, area or density to them.
 
 ## Author
