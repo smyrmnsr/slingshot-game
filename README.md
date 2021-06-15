@@ -25,10 +25,7 @@ Enjoy!
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=red)
 ![JQuery](https://img.shields.io/badge/jQuery-black?style=flat&logo=jquery&logoColor=blue)
-
-
-- Matter.js (https://brm.io/matter-js/):
-A 2D rigid body physics engine written in JavaScript. This library can help you easily simulate 2D physics in the browser. It offers a lot of features like the ability to create rigid bodies and assign physical properties like mass, area or density to them.
+![MatterJS](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=magenta)
 
 ## Author
 
