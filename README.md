@@ -25,7 +25,7 @@ Enjoy!
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=red)
 ![JQuery](https://img.shields.io/badge/jQuery-black?style=flat&logo=jquery&logoColor=blue)
-![MatterJS](https://img.shields.io/badge/MatterJS-black?style=flat&logo=matterjs&logoColor=magenta)
+![MatterJS](https://img.shields.io/badge/MatterJS-black?style=flat&logo=debian&logoColor=magenta)
 
 ## Author
 
